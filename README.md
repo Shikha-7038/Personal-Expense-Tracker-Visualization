@@ -50,7 +50,7 @@ Personal-Expense-Tracker-Visualization/
 │ ├── analyzer.py # Analysis functions
 │ ├── visualizer.py # Chart generation
 │ └── report_generator.py # Create reports
-│
+│ └── dashboard.py # Create dashboard
 ├── outputs/ # Generated outputs
 │ ├── charts/ # PNG chart files
 │ └── reports/ # Text/CSV reports
@@ -63,73 +63,53 @@ Personal-Expense-Tracker-Visualization/
 ```
 
 ## 🎯 Key Performance Indicators:
-   Total Expenses: ₹1,84,567.00
-   Average Expense: ₹312.45
-   Total Transactions: 760
-   Average Daily Spend: ₹505.66
+   - **Total Expenses:** ₹1,84,567.00
+   - **Average Expense:** ₹312.45
+   - **Total Transactions:** 760
+   - **Average Daily Spend:** ₹505.66
 
 ## Generated Charts
-Category-wise Bar Chart - Visual comparison of spending by category
-
-Monthly Trend Line Chart - Spending patterns throughout the year
-
-Payment Method Pie Chart - Distribution of payment methods
-
-Daily Spending Trend - Daily expense fluctuations
-
-Weekday Pattern - Spending by day of week
+   - **Category-wise Bar Chart** - Visual comparison of spending by category
+   - **Monthly Trend Line Chart** - Spending patterns throughout the year
+   - **Payment Method Pie Chart** - Distribution of payment methods
+   - **Daily Spending Trend** - Daily expense fluctuations
+   - **Weekday Pattern** - Spending by day of week
 
 ## 📈 Sample Insights
-The analysis provides actionable insights like:
-
-Top spending category: Food & Dining (24% of total expenses)
-
-Highest spending month: December (holiday season impact)
-
-Payment preference: UPI used for 45% of transactions
-
-Daily average: ₹505 per day
-
-Recommendations: Set budget limits for top categories
+  The analysis provides actionable insights like:
+  - **Top spending category:** Food & Dining (24% of total expenses)
+  - **Highest spending month:** December (holiday season impact)
+  - **Payment preference:** UPI used for 45% of transactions
+  - **Daily average:** ₹505 per day
+  - **Recommendations:** Set budget limits for top categories
 
 ## 🎯 Learning Outcomes
 By completing this project, you'll demonstrate:
 
 # Technical Skills
-Python programming with pandas, numpy, matplotlib
-
-Data cleaning and preprocessing techniques
-
-ETL pipeline implementation
-
-Data visualization best practices
-
-File I/O operations
-
-Modular code organization
+   - Python programming with pandas, numpy, matplotlib
+   - Data cleaning and preprocessing techniques
+   - ETL pipeline implementation
+   - Data visualization best practices
+   - File I/O operations
+   - Modular code organization
 
 # Analytical Skills
-Expense categorization and aggregation
-
-Trend identification and analysis
-
-KPI definition and calculation
-
-Insight generation from data
+   - Expense categorization and aggregation
+   - Trend identification and analysis
+   - KPI definition and calculation
+   - Insight generation from data
 
 # Professional Skills
-Project documentation (README)
-
-Version control with Git/GitHub
-
-Portfolio-ready code structure
-
-Interview-ready project explanation
+   - Project documentation (README)
+   - Version control with Git/GitHub
+   - Portfolio-ready code structure
 
 ## 🔧 Troubleshooting
-Common Issues and Solutions
-Issue	Solution
-Module not found	Run pip install -r requirements.txt
-CSV file not found	Run python main.py to generate data
-Charts not displaying	Check outputs/charts/ folder
-Virtual env not activating	Check OS-specific commands above
+| Common Issues | Solutions |
+| ------------- | --------- |
+| Issue | Solution |
+| Module not found |	Run pip install -r requirements.txt |
+| CSV file not found |	Run python main.py to generate data |
+| Charts not displaying |	Check outputs/charts/ folder |
+| Virtual env not activating |	Check OS-specific commands above |
