@@ -1,0 +1,763 @@
+date,category,amount,description,payment_method,note,date_obj,month,day,weekday
+2024-01-01,Food & Dining,752,Restaurant,Card,,2024-01-01,2024-01,1,Monday
+2024-01-02,Education,2160,Course - Purchase,UPI,,2024-01-02,2024-01,2,Tuesday
+2024-01-02,Transport,204,Auto - Expense,Cash,Monthly expense,2024-01-02,2024-01,2,Tuesday
+2024-01-03,Entertainment,503,Game,UPI,,2024-01-03,2024-01,3,Wednesday
+2024-01-03,Groceries,308,Weekly shopping,UPI,,2024-01-03,2024-01,3,Wednesday
+2024-01-03,Groceries,326,Weekly shopping,Cash,,2024-01-03,2024-01,3,Wednesday
+2024-01-04,Shopping,8797,Electronics,Cash,,2024-01-04,2024-01,4,Thursday
+2024-01-04,Other,767,Service,Card,,2024-01-04,2024-01,4,Thursday
+2024-01-04,Food & Dining,452,Cafe - Purchase,Cash,,2024-01-04,2024-01,4,Thursday
+2024-01-05,Groceries,339,Supermarket,Cash,,2024-01-05,2024-01,5,Friday
+2024-01-05,Healthcare,847,Doctor,Card,,2024-01-05,2024-01,5,Friday
+2024-01-06,Entertainment,1548,Movie,Card,,2024-01-06,2024-01,6,Saturday
+2024-01-06,Groceries,4083,Groceries,UPI,,2024-01-06,2024-01,6,Saturday
+2024-01-07,Other,1103,Service - Bill,Card,,2024-01-07,2024-01,7,Sunday
+2024-01-07,Shopping,12279,Electronics,Cash,,2024-01-07,2024-01,7,Sunday
+2024-01-07,Transport,320,Taxi,Card,,2024-01-07,2024-01,7,Sunday
+2024-01-07,Shopping,3751,Shoes,Cash,Monthly expense,2024-01-07,2024-01,7,Sunday
+2024-01-07,Food & Dining,215,Lunch,Cash,Weekly expense,2024-01-07,2024-01,7,Sunday
+2024-01-08,Transport,51,Bus - Payment,Card,,2024-01-08,2024-01,8,Monday
+2024-01-08,Shopping,9764,Accessories,Card,Planned expense,2024-01-08,2024-01,8,Monday
+2024-01-10,Bills & Utilities,3709,Internet - Purchase,Cash,,2024-01-10,2024-01,10,Wednesday
+2024-01-10,Shopping,1292,Electronics - Purchase,Card,,2024-01-10,2024-01,10,Wednesday
+2024-01-10,Groceries,260,Groceries,Cash,,2024-01-10,2024-01,10,Wednesday
+2024-01-10,Bills & Utilities,2658,Electricity - Payment,UPI,,2024-01-10,2024-01,10,Wednesday
+2024-01-11,Transport,313,Taxi,Cash,,2024-01-11,2024-01,11,Thursday
+2024-01-12,Food & Dining,345,Dinner - Expense,Card,Weekly expense,2024-01-12,2024-01,12,Friday
+2024-01-13,Food & Dining,903,Restaurant,Cash,,2024-01-13,2024-01,13,Saturday
+2024-01-13,Shopping,12084,Electronics,Card,,2024-01-13,2024-01,13,Saturday
+2024-01-14,Groceries,4281,Groceries - Purchase,Card,,2024-01-14,2024-01,14,Sunday
+2024-01-15,Food & Dining,526,Lunch,Card,,2024-01-15,2024-01,15,Monday
+2024-01-15,Food & Dining,502,Cafe,Cash,,2024-01-15,2024-01,15,Monday
+2024-01-16,Food & Dining,560,Dinner,Net Banking,,2024-01-16,2024-01,16,Tuesday
+2024-01-16,Shopping,2139,Flipkart,Cash,Planned expense,2024-01-16,2024-01,16,Tuesday
+2024-01-16,Groceries,880,Supermarket - Payment,Card,,2024-01-16,2024-01,16,Tuesday
+2024-01-17,Shopping,2177,Amazon,Cash,,2024-01-17,2024-01,17,Wednesday
+2024-01-17,Other,359,Service - Purchase,UPI,,2024-01-17,2024-01,17,Wednesday
+2024-01-17,Food & Dining,554,Takeout,Cash,,2024-01-17,2024-01,17,Wednesday
+2024-01-17,Bills & Utilities,4288,Internet,Card,,2024-01-17,2024-01,17,Wednesday
+2024-01-17,Shopping,9739,Electronics - Expense,Card,,2024-01-17,2024-01,17,Wednesday
+2024-01-17,Food & Dining,232,Restaurant,Card,,2024-01-17,2024-01,17,Wednesday
+2024-01-18,Food & Dining,306,Lunch - Bill,UPI,,2024-01-18,2024-01,18,Thursday
+2024-01-19,Healthcare,1223,Gym,Cash,,2024-01-19,2024-01,19,Friday
+2024-01-20,Transport,516,Metro,Card,,2024-01-20,2024-01,20,Saturday
+2024-01-20,Groceries,1852,Weekly shopping,Card,,2024-01-20,2024-01,20,Saturday
+2024-01-20,Bills & Utilities,7094,Water - Payment,Cash,,2024-01-20,2024-01,20,Saturday
+2024-01-20,Education,5201,Course,UPI,Weekly expense,2024-01-20,2024-01,20,Saturday
+2024-01-21,Shopping,10787,Amazon,UPI,,2024-01-21,2024-01,21,Sunday
+2024-01-21,Entertainment,2452,OTT Subscription - Bill,Card,,2024-01-21,2024-01,21,Sunday
+2024-01-22,Healthcare,193,Pharmacy - Bill,Net Banking,,2024-01-22,2024-01,22,Monday
+2024-01-22,Food & Dining,77,Snacks,UPI,Monthly expense,2024-01-22,2024-01,22,Monday
+2024-01-22,Food & Dining,706,Snacks - Bill,UPI,,2024-01-22,2024-01,22,Monday
+2024-01-22,Healthcare,691,Health Checkup,Cash,,2024-01-22,2024-01,22,Monday
+2024-01-24,Bills & Utilities,4948,Water - Bill,UPI,Planned expense,2024-01-24,2024-01,24,Wednesday
+2024-01-24,Food & Dining,192,Coffee - Purchase,Card,,2024-01-24,2024-01,24,Wednesday
+2024-01-25,Food & Dining,452,Restaurant - Purchase,Card,,2024-01-25,2024-01,25,Thursday
+2024-01-25,Transport,149,Fuel,UPI,,2024-01-25,2024-01,25,Thursday
+2024-01-25,Food & Dining,437,Snacks,UPI,,2024-01-25,2024-01,25,Thursday
+2024-01-26,Shopping,9488,Clothes,Card,,2024-01-26,2024-01,26,Friday
+2024-01-27,Bills & Utilities,6936,Water,Cash,,2024-01-27,2024-01,27,Saturday
+2024-01-27,Transport,58,Ola,Card,,2024-01-27,2024-01,27,Saturday
+2024-01-28,Groceries,402,Groceries,Cash,,2024-01-28,2024-01,28,Sunday
+2024-01-28,Groceries,602,Fruits,Cash,,2024-01-28,2024-01,28,Sunday
+2024-01-29,Shopping,6921,Accessories,Card,,2024-01-29,2024-01,29,Monday
+2024-01-29,Transport,136,Fuel,Card,,2024-01-29,2024-01,29,Monday
+2024-01-29,Food & Dining,611,Cafe,Cash,Weekly expense,2024-01-29,2024-01,29,Monday
+2024-01-30,Shopping,4873,Shoes,Card,,2024-01-30,2024-01,30,Tuesday
+2024-01-30,Food & Dining,292,Cafe,UPI,,2024-01-30,2024-01,30,Tuesday
+2024-01-31,Transport,313,Taxi - Payment,Card,Monthly expense,2024-01-31,2024-01,31,Wednesday
+2024-01-31,Bills & Utilities,2633,Electricity,UPI,Monthly expense,2024-01-31,2024-01,31,Wednesday
+2024-02-02,Groceries,2082,Groceries - Bill,UPI,,2024-02-02,2024-02,2,Friday
+2024-02-05,Bills & Utilities,4606,Electricity,UPI,,2024-02-05,2024-02,5,Monday
+2024-02-07,Food & Dining,89,Snacks,Card,Monthly expense,2024-02-07,2024-02,7,Wednesday
+2024-02-08,Transport,65,Bus,UPI,Planned expense,2024-02-08,2024-02,8,Thursday
+2024-02-09,Bills & Utilities,837,Internet,Cash,,2024-02-09,2024-02,9,Friday
+2024-02-10,Bills & Utilities,2059,Gas Bill,Card,Weekly expense,2024-02-10,2024-02,10,Saturday
+2024-02-10,Food & Dining,825,Snacks - Expense,Card,,2024-02-10,2024-02,10,Saturday
+2024-02-12,Shopping,8800,Accessories - Payment,UPI,,2024-02-12,2024-02,12,Monday
+2024-02-12,Food & Dining,84,Restaurant,UPI,,2024-02-12,2024-02,12,Monday
+2024-02-12,Groceries,1582,Weekly shopping,Card,Planned expense,2024-02-12,2024-02,12,Monday
+2024-02-12,Transport,188,Auto,Net Banking,,2024-02-12,2024-02,12,Monday
+2024-02-13,Entertainment,1278,Movie - Expense,Cash,Urgent purchase,2024-02-13,2024-02,13,Tuesday
+2024-02-13,Other,226,Donation,Card,,2024-02-13,2024-02,13,Tuesday
+2024-02-13,Food & Dining,64,Cafe - Bill,UPI,,2024-02-13,2024-02,13,Tuesday
+2024-02-13,Bills & Utilities,2110,Internet,Card,,2024-02-13,2024-02,13,Tuesday
+2024-02-13,Food & Dining,88,Dinner - Purchase,UPI,,2024-02-13,2024-02,13,Tuesday
+2024-02-14,Transport,424,Auto - Expense,UPI,,2024-02-14,2024-02,14,Wednesday
+2024-02-14,Transport,464,Ola,Card,,2024-02-14,2024-02,14,Wednesday
+2024-02-14,Groceries,2857,Supermarket - Expense,UPI,,2024-02-14,2024-02,14,Wednesday
+2024-02-14,Entertainment,627,Movie - Expense,Card,,2024-02-14,2024-02,14,Wednesday
+2024-02-14,Healthcare,1769,Medicine,Card,Monthly expense,2024-02-14,2024-02,14,Wednesday
+2024-02-14,Groceries,2775,Supermarket,Card,,2024-02-14,2024-02,14,Wednesday
+2024-02-15,Food & Dining,559,Lunch - Payment,Card,,2024-02-15,2024-02,15,Thursday
+2024-02-16,Transport,44,Ola - Payment,Cash,,2024-02-16,2024-02,16,Friday
+2024-02-16,Groceries,887,Groceries,Card,,2024-02-16,2024-02,16,Friday
+2024-02-17,Groceries,2217,Weekly shopping,Cash,,2024-02-17,2024-02,17,Saturday
+2024-02-17,Food & Dining,255,Dinner,UPI,,2024-02-17,2024-02,17,Saturday
+2024-02-20,Entertainment,1532,Concert,UPI,,2024-02-20,2024-02,20,Tuesday
+2024-02-20,Food & Dining,182,Takeout,Cash,,2024-02-20,2024-02,20,Tuesday
+2024-02-20,Healthcare,1761,Gym,UPI,,2024-02-20,2024-02,20,Tuesday
+2024-02-21,Transport,304,Uber,UPI,Weekly expense,2024-02-21,2024-02,21,Wednesday
+2024-02-21,Groceries,662,Groceries - Payment,Card,,2024-02-21,2024-02,21,Wednesday
+2024-02-22,Groceries,1829,Groceries - Expense,Card,,2024-02-22,2024-02,22,Thursday
+2024-02-23,Education,1363,Online Course,UPI,,2024-02-23,2024-02,23,Friday
+2024-02-23,Entertainment,1055,Movie - Expense,Cash,,2024-02-23,2024-02,23,Friday
+2024-02-24,Food & Dining,1106,Dinner,UPI,,2024-02-24,2024-02,24,Saturday
+2024-02-24,Food & Dining,215,Snacks,Card,,2024-02-24,2024-02,24,Saturday
+2024-02-25,Education,4054,Books,Cash,,2024-02-25,2024-02,25,Sunday
+2024-02-25,Healthcare,2283,Pharmacy,Card,,2024-02-25,2024-02,25,Sunday
+2024-02-26,Groceries,2935,Vegetables,Card,,2024-02-26,2024-02,26,Monday
+2024-02-26,Food & Dining,599,Snacks,Cash,,2024-02-26,2024-02,26,Monday
+2024-02-26,Groceries,1567,Fruits,Cash,Weekly expense,2024-02-26,2024-02,26,Monday
+2024-02-26,Bills & Utilities,785,Gas Bill - Purchase,Card,,2024-02-26,2024-02,26,Monday
+2024-02-26,Education,1854,Online Course,Card,,2024-02-26,2024-02,26,Monday
+2024-02-28,Food & Dining,376,Cafe,Card,,2024-02-28,2024-02,28,Wednesday
+2024-02-28,Shopping,591,Flipkart,Card,,2024-02-28,2024-02,28,Wednesday
+2024-02-29,Bills & Utilities,2378,Mobile Recharge - Payment,UPI,,2024-02-29,2024-02,29,Thursday
+2024-02-29,Food & Dining,306,Lunch,UPI,,2024-02-29,2024-02,29,Thursday
+2024-02-29,Food & Dining,165,Cafe,Cash,,2024-02-29,2024-02,29,Thursday
+2024-03-01,Groceries,2788,Vegetables - Bill,Card,Monthly expense,2024-03-01,2024-03,1,Friday
+2024-03-01,Healthcare,1239,Pharmacy,Card,,2024-03-01,2024-03,1,Friday
+2024-03-02,Healthcare,682,Doctor,UPI,,2024-03-02,2024-03,2,Saturday
+2024-03-02,Groceries,2973,Supermarket - Expense,Card,,2024-03-02,2024-03,2,Saturday
+2024-03-02,Groceries,3820,Fruits,UPI,,2024-03-02,2024-03,2,Saturday
+2024-03-02,Groceries,521,Weekly shopping,Card,,2024-03-02,2024-03,2,Saturday
+2024-03-02,Food & Dining,541,Cafe - Expense,Cash,,2024-03-02,2024-03,2,Saturday
+2024-03-03,Shopping,10198,Shoes,UPI,,2024-03-03,2024-03,3,Sunday
+2024-03-03,Transport,414,Uber - Payment,Cash,,2024-03-03,2024-03,3,Sunday
+2024-03-04,Groceries,2288,Weekly shopping,Card,,2024-03-04,2024-03,4,Monday
+2024-03-06,Transport,390,Ola - Payment,UPI,,2024-03-06,2024-03,6,Wednesday
+2024-03-08,Entertainment,320,OTT Subscription,Cash,Monthly expense,2024-03-08,2024-03,8,Friday
+2024-03-08,Transport,231,Auto,Card,,2024-03-08,2024-03,8,Friday
+2024-03-09,Shopping,1941,Shoes,Cash,,2024-03-09,2024-03,9,Saturday
+2024-03-10,Transport,122,Fuel,Card,Weekly expense,2024-03-10,2024-03,10,Sunday
+2024-03-11,Bills & Utilities,4873,Water - Bill,Cash,,2024-03-11,2024-03,11,Monday
+2024-03-11,Shopping,8343,Clothes - Expense,Cash,,2024-03-11,2024-03,11,Monday
+2024-03-11,Entertainment,191,Movie,Card,,2024-03-11,2024-03,11,Monday
+2024-03-11,Bills & Utilities,931,Internet - Payment,Card,,2024-03-11,2024-03,11,Monday
+2024-03-11,Food & Dining,249,Restaurant,Card,Weekly expense,2024-03-11,2024-03,11,Monday
+2024-03-11,Education,4069,Books - Payment,UPI,,2024-03-11,2024-03,11,Monday
+2024-03-12,Shopping,3366,Electronics,Card,,2024-03-12,2024-03,12,Tuesday
+2024-03-12,Other,795,Repair,UPI,,2024-03-12,2024-03,12,Tuesday
+2024-03-13,Shopping,1341,Electronics - Expense,Card,Weekly expense,2024-03-13,2024-03,13,Wednesday
+2024-03-16,Other,806,Service,UPI,,2024-03-16,2024-03,16,Saturday
+2024-03-17,Entertainment,459,Netflix,UPI,,2024-03-17,2024-03,17,Sunday
+2024-03-17,Education,7200,Tuition,Card,,2024-03-17,2024-03,17,Sunday
+2024-03-17,Transport,73,Taxi - Payment,Card,,2024-03-17,2024-03,17,Sunday
+2024-03-17,Food & Dining,466,Dinner,UPI,,2024-03-17,2024-03,17,Sunday
+2024-03-19,Other,114,Donation,UPI,,2024-03-19,2024-03,19,Tuesday
+2024-03-19,Food & Dining,435,Cafe,Card,,2024-03-19,2024-03,19,Tuesday
+2024-03-20,Shopping,3491,Electronics,Cash,,2024-03-20,2024-03,20,Wednesday
+2024-03-20,Healthcare,955,Health Checkup,Cash,,2024-03-20,2024-03,20,Wednesday
+2024-03-21,Transport,370,Taxi,UPI,,2024-03-21,2024-03,21,Thursday
+2024-03-22,Entertainment,1155,OTT Subscription,UPI,Weekly expense,2024-03-22,2024-03,22,Friday
+2024-03-22,Food & Dining,663,Snacks,Cash,,2024-03-22,2024-03,22,Friday
+2024-03-23,Food & Dining,1181,Lunch,Card,Weekly expense,2024-03-23,2024-03,23,Saturday
+2024-03-23,Food & Dining,658,Restaurant,Card,,2024-03-23,2024-03,23,Saturday
+2024-03-23,Groceries,449,Weekly shopping,Card,,2024-03-23,2024-03,23,Saturday
+2024-03-24,Other,1699,Gift,Cash,,2024-03-24,2024-03,24,Sunday
+2024-03-24,Other,138,Repair,Card,,2024-03-24,2024-03,24,Sunday
+2024-03-24,Transport,27,Taxi,Cash,,2024-03-24,2024-03,24,Sunday
+2024-03-26,Transport,176,Auto,UPI,,2024-03-26,2024-03,26,Tuesday
+2024-03-27,Transport,226,Ola - Bill,Card,,2024-03-27,2024-03,27,Wednesday
+2024-03-28,Other,312,Gift,Card,,2024-03-28,2024-03,28,Thursday
+2024-03-28,Entertainment,1179,Netflix,UPI,,2024-03-28,2024-03,28,Thursday
+2024-03-28,Other,832,Donation - Purchase,Card,,2024-03-28,2024-03,28,Thursday
+2024-03-28,Groceries,1975,Supermarket - Bill,Card,Urgent purchase,2024-03-28,2024-03,28,Thursday
+2024-03-30,Bills & Utilities,4973,Mobile Recharge,UPI,,2024-03-30,2024-03,30,Saturday
+2024-03-31,Groceries,571,Fruits - Purchase,UPI,,2024-03-31,2024-03,31,Sunday
+2024-03-31,Transport,99,Fuel - Expense,Cash,,2024-03-31,2024-03,31,Sunday
+2024-03-31,Transport,628,Taxi - Payment,UPI,,2024-03-31,2024-03,31,Sunday
+2024-04-01,Groceries,1722,Fruits,UPI,,2024-04-01,2024-04,1,Monday
+2024-04-01,Groceries,390,Fruits,UPI,,2024-04-01,2024-04,1,Monday
+2024-04-03,Transport,411,Taxi,Card,,2024-04-03,2024-04,3,Wednesday
+2024-04-03,Food & Dining,125,Lunch,Cash,Urgent purchase,2024-04-03,2024-04,3,Wednesday
+2024-04-03,Transport,462,Auto - Purchase,Card,,2024-04-03,2024-04,3,Wednesday
+2024-04-04,Healthcare,1091,Health Checkup,UPI,,2024-04-04,2024-04,4,Thursday
+2024-04-04,Transport,150,Fuel,Cash,,2024-04-04,2024-04,4,Thursday
+2024-04-05,Shopping,5043,Amazon,Card,,2024-04-05,2024-04,5,Friday
+2024-04-05,Food & Dining,772,Snacks,Card,,2024-04-05,2024-04,5,Friday
+2024-04-05,Groceries,2642,Supermarket - Payment,Card,,2024-04-05,2024-04,5,Friday
+2024-04-05,Entertainment,1927,Movie,UPI,,2024-04-05,2024-04,5,Friday
+2024-04-06,Transport,343,Bus,UPI,,2024-04-06,2024-04,6,Saturday
+2024-04-08,Food & Dining,131,Coffee,UPI,,2024-04-08,2024-04,8,Monday
+2024-04-08,Other,103,Donation,UPI,,2024-04-08,2024-04,8,Monday
+2024-04-08,Groceries,677,Weekly shopping - Expense,UPI,,2024-04-08,2024-04,8,Monday
+2024-04-09,Food & Dining,571,Snacks,Card,,2024-04-09,2024-04,9,Tuesday
+2024-04-09,Groceries,1921,Supermarket,UPI,,2024-04-09,2024-04,9,Tuesday
+2024-04-09,Other,310,Misc,UPI,,2024-04-09,2024-04,9,Tuesday
+2024-04-09,Food & Dining,608,Snacks,Cash,,2024-04-09,2024-04,9,Tuesday
+2024-04-09,Shopping,6966,Accessories,Card,,2024-04-09,2024-04,9,Tuesday
+2024-04-09,Entertainment,1146,Spotify - Payment,UPI,,2024-04-09,2024-04,9,Tuesday
+2024-04-10,Transport,211,Taxi,Cash,Urgent purchase,2024-04-10,2024-04,10,Wednesday
+2024-04-10,Food & Dining,502,Coffee,Card,,2024-04-10,2024-04,10,Wednesday
+2024-04-10,Food & Dining,153,Coffee,Card,,2024-04-10,2024-04,10,Wednesday
+2024-04-12,Food & Dining,140,Restaurant - Payment,Card,,2024-04-12,2024-04,12,Friday
+2024-04-13,Other,116,Donation,Cash,,2024-04-13,2024-04,13,Saturday
+2024-04-13,Healthcare,2760,Medicine,UPI,,2024-04-13,2024-04,13,Saturday
+2024-04-13,Groceries,4716,Fruits,Cash,,2024-04-13,2024-04,13,Saturday
+2024-04-14,Food & Dining,100,Restaurant,UPI,,2024-04-14,2024-04,14,Sunday
+2024-04-14,Bills & Utilities,4035,Gas Bill,Card,,2024-04-14,2024-04,14,Sunday
+2024-04-15,Food & Dining,219,Restaurant,Cash,Weekly expense,2024-04-15,2024-04,15,Monday
+2024-04-16,Shopping,810,Accessories,Cash,,2024-04-16,2024-04,16,Tuesday
+2024-04-16,Bills & Utilities,2002,Water - Payment,Card,Urgent purchase,2024-04-16,2024-04,16,Tuesday
+2024-04-16,Groceries,2038,Supermarket,UPI,,2024-04-16,2024-04,16,Tuesday
+2024-04-17,Transport,61,Fuel,UPI,,2024-04-17,2024-04,17,Wednesday
+2024-04-17,Bills & Utilities,4647,Gas Bill - Payment,Cash,,2024-04-17,2024-04,17,Wednesday
+2024-04-17,Groceries,543,Groceries - Bill,Card,,2024-04-17,2024-04,17,Wednesday
+2024-04-18,Entertainment,655,OTT Subscription,UPI,Urgent purchase,2024-04-18,2024-04,18,Thursday
+2024-04-18,Shopping,7344,Shoes - Payment,Card,,2024-04-18,2024-04,18,Thursday
+2024-04-18,Transport,125,Fuel,Card,Planned expense,2024-04-18,2024-04,18,Thursday
+2024-04-19,Education,3771,Books,Card,,2024-04-19,2024-04,19,Friday
+2024-04-20,Food & Dining,895,Snacks - Purchase,Net Banking,,2024-04-20,2024-04,20,Saturday
+2024-04-21,Healthcare,688,Doctor,Card,,2024-04-21,2024-04,21,Sunday
+2024-04-21,Transport,647,Uber,Cash,,2024-04-21,2024-04,21,Sunday
+2024-04-22,Food & Dining,68,Lunch - Purchase,Card,,2024-04-22,2024-04,22,Monday
+2024-04-22,Food & Dining,138,Takeout,Net Banking,,2024-04-22,2024-04,22,Monday
+2024-04-22,Bills & Utilities,1363,Water - Bill,Card,,2024-04-22,2024-04,22,Monday
+2024-04-22,Entertainment,762,Netflix,Card,,2024-04-22,2024-04,22,Monday
+2024-04-23,Shopping,1410,Flipkart - Purchase,Cash,,2024-04-23,2024-04,23,Tuesday
+2024-04-23,Other,620,Gift,UPI,Weekly expense,2024-04-23,2024-04,23,Tuesday
+2024-04-23,Entertainment,482,OTT Subscription - Purchase,Cash,,2024-04-23,2024-04,23,Tuesday
+2024-04-23,Food & Dining,423,Snacks,Card,,2024-04-23,2024-04,23,Tuesday
+2024-04-23,Bills & Utilities,1596,Electricity - Bill,Cash,Weekly expense,2024-04-23,2024-04,23,Tuesday
+2024-04-23,Groceries,1514,Fruits - Bill,UPI,,2024-04-23,2024-04,23,Tuesday
+2024-04-24,Groceries,2285,Supermarket - Bill,UPI,,2024-04-24,2024-04,24,Wednesday
+2024-04-25,Entertainment,1543,Movie - Bill,Card,,2024-04-25,2024-04,25,Thursday
+2024-04-25,Transport,382,Bus - Expense,Card,,2024-04-25,2024-04,25,Thursday
+2024-04-26,Shopping,6980,Clothes - Purchase,Card,,2024-04-26,2024-04,26,Friday
+2024-04-26,Entertainment,1444,Concert - Payment,Net Banking,,2024-04-26,2024-04,26,Friday
+2024-04-27,Transport,103,Bus,Card,Urgent purchase,2024-04-27,2024-04,27,Saturday
+2024-04-27,Groceries,2289,Fruits,Card,,2024-04-27,2024-04,27,Saturday
+2024-04-27,Transport,268,Fuel - Expense,Card,,2024-04-27,2024-04,27,Saturday
+2024-04-30,Food & Dining,490,Dinner,UPI,,2024-04-30,2024-04,30,Tuesday
+2024-04-30,Shopping,8032,Clothes - Payment,Cash,,2024-04-30,2024-04,30,Tuesday
+2024-04-30,Groceries,2936,Groceries,Card,,2024-04-30,2024-04,30,Tuesday
+2024-05-01,Transport,442,Metro,Card,,2024-05-01,2024-05,1,Wednesday
+2024-05-01,Transport,454,Ola - Purchase,Card,,2024-05-01,2024-05,1,Wednesday
+2024-05-01,Food & Dining,182,Coffee - Expense,Card,,2024-05-01,2024-05,1,Wednesday
+2024-05-02,Food & Dining,556,Snacks - Expense,UPI,,2024-05-02,2024-05,2,Thursday
+2024-05-02,Transport,176,Bus,Cash,Urgent purchase,2024-05-02,2024-05,2,Thursday
+2024-05-03,Shopping,6418,Shoes,UPI,,2024-05-03,2024-05,3,Friday
+2024-05-03,Groceries,2562,Fruits,UPI,,2024-05-03,2024-05,3,Friday
+2024-05-03,Shopping,3178,Accessories,Card,,2024-05-03,2024-05,3,Friday
+2024-05-03,Shopping,3810,Shoes,Card,,2024-05-03,2024-05,3,Friday
+2024-05-04,Food & Dining,276,Lunch,Card,,2024-05-04,2024-05,4,Saturday
+2024-05-05,Food & Dining,465,Snacks - Purchase,Cash,,2024-05-05,2024-05,5,Sunday
+2024-05-06,Food & Dining,565,Restaurant,UPI,Monthly expense,2024-05-06,2024-05,6,Monday
+2024-05-06,Bills & Utilities,2934,Mobile Recharge,Card,,2024-05-06,2024-05,6,Monday
+2024-05-07,Education,4471,School Fee - Bill,UPI,,2024-05-07,2024-05,7,Tuesday
+2024-05-07,Entertainment,1753,Movie - Purchase,Card,Urgent purchase,2024-05-07,2024-05,7,Tuesday
+2024-05-08,Shopping,3788,Amazon,Cash,,2024-05-08,2024-05,8,Wednesday
+2024-05-08,Entertainment,154,Game,Card,Monthly expense,2024-05-08,2024-05,8,Wednesday
+2024-05-09,Entertainment,1179,OTT Subscription,UPI,,2024-05-09,2024-05,9,Thursday
+2024-05-09,Food & Dining,105,Coffee,UPI,,2024-05-09,2024-05,9,Thursday
+2024-05-10,Shopping,6352,Amazon,Net Banking,,2024-05-10,2024-05,10,Friday
+2024-05-10,Bills & Utilities,1645,Water,Card,,2024-05-10,2024-05,10,Friday
+2024-05-11,Food & Dining,363,Dinner,UPI,,2024-05-11,2024-05,11,Saturday
+2024-05-12,Bills & Utilities,5454,Gas Bill,Cash,,2024-05-12,2024-05,12,Sunday
+2024-05-12,Groceries,1380,Weekly shopping - Expense,Net Banking,,2024-05-12,2024-05,12,Sunday
+2024-05-12,Groceries,4590,Vegetables,Card,,2024-05-12,2024-05,12,Sunday
+2024-05-13,Bills & Utilities,4890,Water,Cash,,2024-05-13,2024-05,13,Monday
+2024-05-14,Food & Dining,103,Restaurant,Card,,2024-05-14,2024-05,14,Tuesday
+2024-05-15,Bills & Utilities,4420,Water - Bill,Card,,2024-05-15,2024-05,15,Wednesday
+2024-05-15,Shopping,3917,Flipkart,Cash,,2024-05-15,2024-05,15,Wednesday
+2024-05-15,Healthcare,1123,Gym - Payment,UPI,,2024-05-15,2024-05,15,Wednesday
+2024-05-16,Education,2156,Tuition,UPI,Monthly expense,2024-05-16,2024-05,16,Thursday
+2024-05-16,Food & Dining,605,Snacks,Card,,2024-05-16,2024-05,16,Thursday
+2024-05-16,Groceries,1971,Supermarket - Bill,Card,,2024-05-16,2024-05,16,Thursday
+2024-05-16,Groceries,247,Groceries,Cash,,2024-05-16,2024-05,16,Thursday
+2024-05-17,Bills & Utilities,4774,Water,UPI,,2024-05-17,2024-05,17,Friday
+2024-05-18,Transport,204,Metro,Card,Urgent purchase,2024-05-18,2024-05,18,Saturday
+2024-05-18,Food & Dining,754,Lunch - Payment,Cash,,2024-05-18,2024-05,18,Saturday
+2024-05-19,Groceries,2569,Groceries,Net Banking,Weekly expense,2024-05-19,2024-05,19,Sunday
+2024-05-19,Groceries,3799,Weekly shopping,UPI,,2024-05-19,2024-05,19,Sunday
+2024-05-21,Food & Dining,441,Lunch - Payment,Card,Urgent purchase,2024-05-21,2024-05,21,Tuesday
+2024-05-22,Transport,439,Taxi,Net Banking,,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Food & Dining,91,Takeout - Expense,UPI,,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Food & Dining,500,Coffee,Cash,,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Entertainment,1500,Concert,UPI,Planned expense,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Entertainment,360,Concert,Card,,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Bills & Utilities,995,Internet,Card,,2024-05-22,2024-05,22,Wednesday
+2024-05-22,Shopping,833,Accessories,UPI,,2024-05-22,2024-05,22,Wednesday
+2024-05-23,Entertainment,494,Movie,Cash,,2024-05-23,2024-05,23,Thursday
+2024-05-23,Shopping,2778,Amazon,UPI,Planned expense,2024-05-23,2024-05,23,Thursday
+2024-05-23,Food & Dining,736,Takeout - Expense,Card,,2024-05-23,2024-05,23,Thursday
+2024-05-24,Bills & Utilities,2008,Water - Expense,Card,,2024-05-24,2024-05,24,Friday
+2024-05-25,Bills & Utilities,5497,Electricity - Bill,Cash,Urgent purchase,2024-05-25,2024-05,25,Saturday
+2024-05-25,Bills & Utilities,5983,Gas Bill - Payment,UPI,Urgent purchase,2024-05-25,2024-05,25,Saturday
+2024-05-25,Food & Dining,117,Restaurant - Payment,UPI,Urgent purchase,2024-05-25,2024-05,25,Saturday
+2024-05-25,Food & Dining,1027,Dinner,Card,,2024-05-25,2024-05,25,Saturday
+2024-05-25,Food & Dining,673,Restaurant - Payment,Cash,Planned expense,2024-05-25,2024-05,25,Saturday
+2024-05-26,Food & Dining,878,Cafe,Card,,2024-05-26,2024-05,26,Sunday
+2024-05-27,Bills & Utilities,3996,Internet,UPI,,2024-05-27,2024-05,27,Monday
+2024-05-27,Bills & Utilities,3746,Mobile Recharge,Card,,2024-05-27,2024-05,27,Monday
+2024-05-28,Entertainment,534,Netflix,Cash,,2024-05-28,2024-05,28,Tuesday
+2024-05-28,Transport,231,Ola,Card,,2024-05-28,2024-05,28,Tuesday
+2024-05-29,Food & Dining,737,Restaurant,Card,,2024-05-29,2024-05,29,Wednesday
+2024-05-29,Healthcare,1281,Health Checkup,Cash,,2024-05-29,2024-05,29,Wednesday
+2024-05-30,Food & Dining,764,Restaurant,Card,,2024-05-30,2024-05,30,Thursday
+2024-05-30,Food & Dining,482,Cafe - Expense,UPI,,2024-05-30,2024-05,30,Thursday
+2024-05-31,Groceries,2549,Supermarket,Card,,2024-05-31,2024-05,31,Friday
+2024-05-31,Food & Dining,747,Lunch,Cash,,2024-05-31,2024-05,31,Friday
+2024-05-31,Entertainment,714,Movie,UPI,,2024-05-31,2024-05,31,Friday
+2024-05-31,Groceries,1513,Fruits,UPI,,2024-05-31,2024-05,31,Friday
+2024-05-31,Food & Dining,376,Restaurant - Bill,Card,,2024-05-31,2024-05,31,Friday
+2024-06-01,Groceries,2760,Weekly shopping,UPI,,2024-06-01,2024-06,1,Saturday
+2024-06-01,Groceries,1775,Fruits,Card,,2024-06-01,2024-06,1,Saturday
+2024-06-01,Food & Dining,850,Cafe,Cash,,2024-06-01,2024-06,1,Saturday
+2024-06-01,Bills & Utilities,3446,Water,Cash,,2024-06-01,2024-06,1,Saturday
+2024-06-02,Food & Dining,248,Lunch,Cash,,2024-06-02,2024-06,2,Sunday
+2024-06-03,Food & Dining,495,Coffee,Cash,,2024-06-03,2024-06,3,Monday
+2024-06-04,Food & Dining,348,Dinner - Bill,Card,Planned expense,2024-06-04,2024-06,4,Tuesday
+2024-06-05,Groceries,478,Weekly shopping - Expense,UPI,,2024-06-05,2024-06,5,Wednesday
+2024-06-05,Bills & Utilities,2635,Mobile Recharge,Cash,,2024-06-05,2024-06,5,Wednesday
+2024-06-06,Food & Dining,569,Snacks,Card,,2024-06-06,2024-06,6,Thursday
+2024-06-06,Transport,234,Fuel,UPI,,2024-06-06,2024-06,6,Thursday
+2024-06-06,Food & Dining,543,Lunch - Bill,Net Banking,,2024-06-06,2024-06,6,Thursday
+2024-06-08,Entertainment,2771,OTT Subscription,Card,,2024-06-08,2024-06,8,Saturday
+2024-06-09,Food & Dining,987,Coffee,Cash,,2024-06-09,2024-06,9,Sunday
+2024-06-09,Shopping,13368,Shoes - Bill,Card,,2024-06-09,2024-06,9,Sunday
+2024-06-09,Shopping,5106,Amazon,Card,,2024-06-09,2024-06,9,Sunday
+2024-06-09,Groceries,2106,Supermarket,Cash,,2024-06-09,2024-06,9,Sunday
+2024-06-09,Shopping,9776,Clothes,UPI,Monthly expense,2024-06-09,2024-06,9,Sunday
+2024-06-10,Bills & Utilities,2088,Gas Bill - Expense,Card,,2024-06-10,2024-06,10,Monday
+2024-06-10,Food & Dining,175,Cafe,UPI,,2024-06-10,2024-06,10,Monday
+2024-06-10,Food & Dining,421,Lunch - Expense,UPI,,2024-06-10,2024-06,10,Monday
+2024-06-11,Groceries,1407,Groceries,Card,,2024-06-11,2024-06,11,Tuesday
+2024-06-11,Bills & Utilities,3657,Water,Cash,Planned expense,2024-06-11,2024-06,11,Tuesday
+2024-06-11,Other,139,Gift,Card,,2024-06-11,2024-06,11,Tuesday
+2024-06-11,Transport,186,Taxi,Cash,,2024-06-11,2024-06,11,Tuesday
+2024-06-11,Bills & Utilities,1498,Internet,Cash,,2024-06-11,2024-06,11,Tuesday
+2024-06-11,Food & Dining,612,Snacks,UPI,,2024-06-11,2024-06,11,Tuesday
+2024-06-12,Food & Dining,498,Dinner - Payment,UPI,,2024-06-12,2024-06,12,Wednesday
+2024-06-13,Other,867,Misc,UPI,,2024-06-13,2024-06,13,Thursday
+2024-06-13,Healthcare,1282,Pharmacy - Purchase,UPI,,2024-06-13,2024-06,13,Thursday
+2024-06-13,Groceries,1107,Groceries,Card,,2024-06-13,2024-06,13,Thursday
+2024-06-14,Food & Dining,193,Lunch,UPI,,2024-06-14,2024-06,14,Friday
+2024-06-14,Other,825,Gift - Purchase,Card,,2024-06-14,2024-06,14,Friday
+2024-06-14,Entertainment,1534,Netflix,UPI,,2024-06-14,2024-06,14,Friday
+2024-06-14,Groceries,465,Fruits - Payment,Cash,,2024-06-14,2024-06,14,Friday
+2024-06-14,Groceries,454,Supermarket,Cash,,2024-06-14,2024-06,14,Friday
+2024-06-14,Shopping,8903,Shoes,UPI,,2024-06-14,2024-06,14,Friday
+2024-06-15,Entertainment,1217,Concert,Cash,,2024-06-15,2024-06,15,Saturday
+2024-06-15,Shopping,7795,Flipkart,UPI,,2024-06-15,2024-06,15,Saturday
+2024-06-16,Food & Dining,661,Cafe,UPI,,2024-06-16,2024-06,16,Sunday
+2024-06-17,Shopping,1114,Accessories,Card,,2024-06-17,2024-06,17,Monday
+2024-06-17,Healthcare,1688,Doctor - Expense,UPI,,2024-06-17,2024-06,17,Monday
+2024-06-19,Other,654,Donation,Card,,2024-06-19,2024-06,19,Wednesday
+2024-06-20,Bills & Utilities,4503,Gas Bill - Expense,Cash,,2024-06-20,2024-06,20,Thursday
+2024-06-20,Groceries,1124,Groceries - Purchase,Card,,2024-06-20,2024-06,20,Thursday
+2024-06-20,Groceries,1054,Vegetables,Cash,,2024-06-20,2024-06,20,Thursday
+2024-06-20,Shopping,5983,Amazon,Card,,2024-06-20,2024-06,20,Thursday
+2024-06-21,Food & Dining,635,Dinner,Cash,,2024-06-21,2024-06,21,Friday
+2024-06-21,Bills & Utilities,2439,Water,UPI,Monthly expense,2024-06-21,2024-06,21,Friday
+2024-06-21,Healthcare,1916,Gym,Card,,2024-06-21,2024-06,21,Friday
+2024-06-21,Bills & Utilities,2144,Water,Net Banking,,2024-06-21,2024-06,21,Friday
+2024-06-21,Groceries,1132,Fruits - Payment,UPI,,2024-06-21,2024-06,21,Friday
+2024-06-23,Other,998,Donation - Bill,Card,,2024-06-23,2024-06,23,Sunday
+2024-06-23,Shopping,4298,Shoes,Card,,2024-06-23,2024-06,23,Sunday
+2024-06-24,Food & Dining,185,Restaurant,Card,,2024-06-24,2024-06,24,Monday
+2024-06-24,Groceries,307,Groceries - Bill,UPI,Planned expense,2024-06-24,2024-06,24,Monday
+2024-06-24,Groceries,2792,Groceries,UPI,Planned expense,2024-06-24,2024-06,24,Monday
+2024-06-25,Entertainment,458,Spotify,UPI,,2024-06-25,2024-06,25,Tuesday
+2024-06-25,Groceries,1003,Weekly shopping,UPI,,2024-06-25,2024-06,25,Tuesday
+2024-06-25,Transport,448,Uber - Expense,Cash,,2024-06-25,2024-06,25,Tuesday
+2024-06-26,Groceries,1096,Fruits - Expense,Card,Urgent purchase,2024-06-26,2024-06,26,Wednesday
+2024-06-26,Food & Dining,644,Coffee - Bill,UPI,Urgent purchase,2024-06-26,2024-06,26,Wednesday
+2024-06-27,Food & Dining,320,Takeout - Purchase,Card,,2024-06-27,2024-06,27,Thursday
+2024-06-27,Entertainment,722,Movie - Bill,Cash,,2024-06-27,2024-06,27,Thursday
+2024-06-28,Shopping,8926,Amazon - Purchase,Cash,,2024-06-28,2024-06,28,Friday
+2024-06-29,Food & Dining,450,Snacks,Card,,2024-06-29,2024-06,29,Saturday
+2024-06-29,Food & Dining,275,Dinner - Purchase,Card,,2024-06-29,2024-06,29,Saturday
+2024-06-29,Bills & Utilities,3515,Gas Bill - Expense,Card,,2024-06-29,2024-06,29,Saturday
+2024-06-29,Transport,474,Ola,Cash,,2024-06-29,2024-06,29,Saturday
+2024-06-30,Shopping,7914,Accessories,Cash,,2024-06-30,2024-06,30,Sunday
+2024-06-30,Transport,186,Metro - Payment,Cash,,2024-06-30,2024-06,30,Sunday
+2024-07-01,Entertainment,303,Spotify,Card,,2024-07-01,2024-07,1,Monday
+2024-07-02,Shopping,1806,Shoes - Payment,Cash,,2024-07-02,2024-07,2,Tuesday
+2024-07-02,Transport,199,Taxi,UPI,,2024-07-02,2024-07,2,Tuesday
+2024-07-03,Food & Dining,102,Snacks - Purchase,Cash,,2024-07-03,2024-07,3,Wednesday
+2024-07-03,Food & Dining,389,Cafe - Bill,UPI,Urgent purchase,2024-07-03,2024-07,3,Wednesday
+2024-07-03,Bills & Utilities,1183,Mobile Recharge,Cash,,2024-07-03,2024-07,3,Wednesday
+2024-07-03,Groceries,1617,Supermarket - Purchase,Cash,,2024-07-03,2024-07,3,Wednesday
+2024-07-04,Groceries,2441,Groceries,UPI,Weekly expense,2024-07-04,2024-07,4,Thursday
+2024-07-04,Groceries,1643,Fruits,Card,,2024-07-04,2024-07,4,Thursday
+2024-07-04,Entertainment,791,Game,Cash,,2024-07-04,2024-07,4,Thursday
+2024-07-05,Transport,419,Auto,Card,,2024-07-05,2024-07,5,Friday
+2024-07-05,Groceries,739,Groceries - Payment,Card,,2024-07-05,2024-07,5,Friday
+2024-07-06,Transport,118,Auto,Card,,2024-07-06,2024-07,6,Saturday
+2024-07-06,Bills & Utilities,4474,Internet,Cash,,2024-07-06,2024-07,6,Saturday
+2024-07-07,Food & Dining,499,Dinner,Cash,,2024-07-07,2024-07,7,Sunday
+2024-07-07,Bills & Utilities,2170,Water,Cash,Monthly expense,2024-07-07,2024-07,7,Sunday
+2024-07-08,Shopping,562,Clothes,Card,,2024-07-08,2024-07,8,Monday
+2024-07-09,Entertainment,978,Concert,UPI,,2024-07-09,2024-07,9,Tuesday
+2024-07-09,Food & Dining,512,Snacks,UPI,Urgent purchase,2024-07-09,2024-07,9,Tuesday
+2024-07-12,Shopping,9987,Clothes - Purchase,UPI,,2024-07-12,2024-07,12,Friday
+2024-07-12,Food & Dining,579,Restaurant - Bill,Card,,2024-07-12,2024-07,12,Friday
+2024-07-13,Other,802,Repair,Card,Monthly expense,2024-07-13,2024-07,13,Saturday
+2024-07-13,Entertainment,1780,Concert - Payment,UPI,,2024-07-13,2024-07,13,Saturday
+2024-07-13,Food & Dining,999,Coffee,Card,,2024-07-13,2024-07,13,Saturday
+2024-07-15,Bills & Utilities,3185,Electricity,Card,,2024-07-15,2024-07,15,Monday
+2024-07-15,Transport,138,Auto,Card,,2024-07-15,2024-07,15,Monday
+2024-07-15,Transport,425,Metro,Cash,,2024-07-15,2024-07,15,Monday
+2024-07-15,Food & Dining,105,Lunch,Card,Urgent purchase,2024-07-15,2024-07,15,Monday
+2024-07-16,Food & Dining,763,Cafe,Card,,2024-07-16,2024-07,16,Tuesday
+2024-07-16,Groceries,425,Fruits,UPI,Urgent purchase,2024-07-16,2024-07,16,Tuesday
+2024-07-17,Food & Dining,154,Snacks,UPI,,2024-07-17,2024-07,17,Wednesday
+2024-07-17,Transport,259,Auto,Card,,2024-07-17,2024-07,17,Wednesday
+2024-07-18,Shopping,7162,Accessories,Card,,2024-07-18,2024-07,18,Thursday
+2024-07-18,Groceries,1361,Fruits,UPI,,2024-07-18,2024-07,18,Thursday
+2024-07-18,Food & Dining,572,Cafe,UPI,,2024-07-18,2024-07,18,Thursday
+2024-07-18,Groceries,761,Groceries,Card,,2024-07-18,2024-07,18,Thursday
+2024-07-19,Healthcare,192,Health Checkup,Card,,2024-07-19,2024-07,19,Friday
+2024-07-19,Food & Dining,542,Cafe,Cash,,2024-07-19,2024-07,19,Friday
+2024-07-19,Transport,257,Bus,Card,,2024-07-19,2024-07,19,Friday
+2024-07-20,Shopping,559,Accessories,UPI,,2024-07-20,2024-07,20,Saturday
+2024-07-20,Groceries,1635,Weekly shopping - Payment,Cash,,2024-07-20,2024-07,20,Saturday
+2024-07-20,Other,241,Misc,Card,,2024-07-20,2024-07,20,Saturday
+2024-07-21,Transport,386,Metro - Bill,Card,Planned expense,2024-07-21,2024-07,21,Sunday
+2024-07-21,Groceries,3228,Fruits,Card,,2024-07-21,2024-07,21,Sunday
+2024-07-21,Shopping,860,Flipkart,Card,,2024-07-21,2024-07,21,Sunday
+2024-07-22,Bills & Utilities,1300,Electricity,Card,Planned expense,2024-07-22,2024-07,22,Monday
+2024-07-22,Shopping,7686,Accessories,UPI,,2024-07-22,2024-07,22,Monday
+2024-07-22,Education,813,Course,Cash,,2024-07-22,2024-07,22,Monday
+2024-07-24,Transport,289,Fuel,Card,Planned expense,2024-07-24,2024-07,24,Wednesday
+2024-07-24,Food & Dining,562,Cafe,Card,,2024-07-24,2024-07,24,Wednesday
+2024-07-25,Food & Dining,497,Coffee,UPI,,2024-07-25,2024-07,25,Thursday
+2024-07-25,Other,887,Service - Purchase,UPI,,2024-07-25,2024-07,25,Thursday
+2024-07-26,Transport,106,Metro,Card,,2024-07-26,2024-07,26,Friday
+2024-07-26,Food & Dining,245,Snacks - Expense,UPI,,2024-07-26,2024-07,26,Friday
+2024-07-28,Other,774,Donation,Cash,,2024-07-28,2024-07,28,Sunday
+2024-07-28,Food & Dining,535,Dinner,UPI,,2024-07-28,2024-07,28,Sunday
+2024-07-29,Groceries,2989,Fruits,Net Banking,,2024-07-29,2024-07,29,Monday
+2024-07-29,Transport,313,Auto,UPI,,2024-07-29,2024-07,29,Monday
+2024-07-31,Other,704,Donation,Card,,2024-07-31,2024-07,31,Wednesday
+2024-08-01,Education,4967,School Fee - Payment,UPI,,2024-08-01,2024-08,1,Thursday
+2024-08-04,Entertainment,1530,Netflix,Net Banking,,2024-08-04,2024-08,4,Sunday
+2024-08-04,Food & Dining,282,Dinner,Cash,,2024-08-04,2024-08,4,Sunday
+2024-08-04,Food & Dining,170,Restaurant,Card,,2024-08-04,2024-08,4,Sunday
+2024-08-04,Groceries,928,Supermarket,Net Banking,,2024-08-04,2024-08,4,Sunday
+2024-08-07,Transport,373,Metro,UPI,,2024-08-07,2024-08,7,Wednesday
+2024-08-07,Transport,269,Bus,Cash,,2024-08-07,2024-08,7,Wednesday
+2024-08-07,Entertainment,566,Game,UPI,,2024-08-07,2024-08,7,Wednesday
+2024-08-07,Groceries,1731,Fruits,Cash,,2024-08-07,2024-08,7,Wednesday
+2024-08-07,Shopping,3166,Accessories - Payment,UPI,,2024-08-07,2024-08,7,Wednesday
+2024-08-08,Bills & Utilities,923,Electricity - Purchase,Card,,2024-08-08,2024-08,8,Thursday
+2024-08-08,Shopping,1309,Electronics,Net Banking,,2024-08-08,2024-08,8,Thursday
+2024-08-08,Food & Dining,103,Takeout - Payment,Card,,2024-08-08,2024-08,8,Thursday
+2024-08-09,Bills & Utilities,4375,Internet,Card,Urgent purchase,2024-08-09,2024-08,9,Friday
+2024-08-10,Shopping,9757,Clothes,Cash,,2024-08-10,2024-08,10,Saturday
+2024-08-10,Bills & Utilities,3708,Electricity - Purchase,Card,,2024-08-10,2024-08,10,Saturday
+2024-08-11,Food & Dining,964,Coffee,UPI,,2024-08-11,2024-08,11,Sunday
+2024-08-11,Healthcare,489,Health Checkup,UPI,,2024-08-11,2024-08,11,Sunday
+2024-08-11,Shopping,11734,Clothes,Card,,2024-08-11,2024-08,11,Sunday
+2024-08-12,Groceries,2209,Weekly shopping - Payment,UPI,,2024-08-12,2024-08,12,Monday
+2024-08-12,Bills & Utilities,641,Gas Bill,Cash,,2024-08-12,2024-08,12,Monday
+2024-08-13,Food & Dining,262,Takeout,Net Banking,Weekly expense,2024-08-13,2024-08,13,Tuesday
+2024-08-14,Education,4332,School Fee,Card,,2024-08-14,2024-08,14,Wednesday
+2024-08-15,Bills & Utilities,934,Electricity,UPI,,2024-08-15,2024-08,15,Thursday
+2024-08-15,Transport,275,Metro,UPI,,2024-08-15,2024-08,15,Thursday
+2024-08-16,Transport,262,Taxi,UPI,,2024-08-16,2024-08,16,Friday
+2024-08-16,Entertainment,344,Movie,Card,,2024-08-16,2024-08,16,Friday
+2024-08-16,Shopping,8375,Amazon,Card,Urgent purchase,2024-08-16,2024-08,16,Friday
+2024-08-17,Education,2080,Course - Payment,UPI,,2024-08-17,2024-08,17,Saturday
+2024-08-17,Shopping,798,Clothes - Purchase,Cash,,2024-08-17,2024-08,17,Saturday
+2024-08-18,Groceries,1644,Supermarket - Bill,Card,Planned expense,2024-08-18,2024-08,18,Sunday
+2024-08-19,Food & Dining,649,Snacks,Cash,,2024-08-19,2024-08,19,Monday
+2024-08-19,Food & Dining,745,Takeout,Net Banking,,2024-08-19,2024-08,19,Monday
+2024-08-19,Groceries,1745,Vegetables,UPI,,2024-08-19,2024-08,19,Monday
+2024-08-19,Transport,481,Bus,Card,,2024-08-19,2024-08,19,Monday
+2024-08-21,Bills & Utilities,4836,Internet - Bill,Card,,2024-08-21,2024-08,21,Wednesday
+2024-08-21,Shopping,2334,Shoes,Card,,2024-08-21,2024-08,21,Wednesday
+2024-08-22,Food & Dining,187,Restaurant - Payment,UPI,,2024-08-22,2024-08,22,Thursday
+2024-08-22,Food & Dining,748,Dinner,Card,,2024-08-22,2024-08,22,Thursday
+2024-08-22,Food & Dining,451,Coffee,Card,,2024-08-22,2024-08,22,Thursday
+2024-08-22,Other,222,Repair,Card,Monthly expense,2024-08-22,2024-08,22,Thursday
+2024-08-22,Transport,245,Bus,UPI,,2024-08-22,2024-08,22,Thursday
+2024-08-23,Food & Dining,600,Restaurant - Bill,Card,Urgent purchase,2024-08-23,2024-08,23,Friday
+2024-08-23,Groceries,2584,Fruits,Card,,2024-08-23,2024-08,23,Friday
+2024-08-23,Food & Dining,381,Takeout - Purchase,Cash,Weekly expense,2024-08-23,2024-08,23,Friday
+2024-08-23,Transport,256,Bus - Expense,UPI,,2024-08-23,2024-08,23,Friday
+2024-08-23,Entertainment,389,Netflix,Card,,2024-08-23,2024-08,23,Friday
+2024-08-25,Groceries,1634,Weekly shopping - Bill,UPI,,2024-08-25,2024-08,25,Sunday
+2024-08-25,Food & Dining,391,Restaurant,Card,,2024-08-25,2024-08,25,Sunday
+2024-08-26,Bills & Utilities,2979,Water,Card,Weekly expense,2024-08-26,2024-08,26,Monday
+2024-08-26,Entertainment,1552,Spotify,Cash,,2024-08-26,2024-08,26,Monday
+2024-08-27,Food & Dining,305,Snacks,Cash,,2024-08-27,2024-08,27,Tuesday
+2024-08-27,Entertainment,272,Game,UPI,,2024-08-27,2024-08,27,Tuesday
+2024-08-27,Transport,340,Taxi,Net Banking,Monthly expense,2024-08-27,2024-08,27,Tuesday
+2024-08-28,Food & Dining,98,Takeout,UPI,,2024-08-28,2024-08,28,Wednesday
+2024-08-28,Shopping,4366,Accessories,Cash,Urgent purchase,2024-08-28,2024-08,28,Wednesday
+2024-08-28,Transport,493,Auto,Card,Planned expense,2024-08-28,2024-08,28,Wednesday
+2024-08-29,Food & Dining,272,Takeout,UPI,,2024-08-29,2024-08,29,Thursday
+2024-08-30,Education,1684,Books,Cash,,2024-08-30,2024-08,30,Friday
+2024-08-30,Shopping,6911,Electronics - Purchase,Card,,2024-08-30,2024-08,30,Friday
+2024-08-31,Groceries,1424,Groceries,Card,Planned expense,2024-08-31,2024-08,31,Saturday
+2024-08-31,Transport,611,Taxi,UPI,Weekly expense,2024-08-31,2024-08,31,Saturday
+2024-08-31,Healthcare,1344,Health Checkup,Cash,,2024-08-31,2024-08,31,Saturday
+2024-09-01,Groceries,2510,Weekly shopping - Bill,Cash,Planned expense,2024-09-01,2024-09,1,Sunday
+2024-09-01,Shopping,9932,Electronics,Card,,2024-09-01,2024-09,1,Sunday
+2024-09-02,Shopping,1596,Amazon,Card,,2024-09-02,2024-09,2,Monday
+2024-09-02,Shopping,6189,Clothes,UPI,,2024-09-02,2024-09,2,Monday
+2024-09-02,Food & Dining,381,Lunch,UPI,,2024-09-02,2024-09,2,Monday
+2024-09-03,Food & Dining,791,Snacks,Card,,2024-09-03,2024-09,3,Tuesday
+2024-09-05,Food & Dining,657,Restaurant - Expense,UPI,,2024-09-05,2024-09,5,Thursday
+2024-09-05,Groceries,1673,Fruits,Cash,,2024-09-05,2024-09,5,Thursday
+2024-09-06,Food & Dining,199,Coffee,Card,,2024-09-06,2024-09,6,Friday
+2024-09-06,Bills & Utilities,948,Mobile Recharge,Card,,2024-09-06,2024-09,6,Friday
+2024-09-06,Groceries,2471,Supermarket - Payment,Card,,2024-09-06,2024-09,6,Friday
+2024-09-06,Education,3286,Tuition,Cash,,2024-09-06,2024-09,6,Friday
+2024-09-07,Bills & Utilities,2822,Internet - Expense,UPI,,2024-09-07,2024-09,7,Saturday
+2024-09-07,Groceries,367,Fruits,UPI,,2024-09-07,2024-09,7,Saturday
+2024-09-07,Groceries,3461,Weekly shopping - Payment,UPI,,2024-09-07,2024-09,7,Saturday
+2024-09-09,Bills & Utilities,1631,Internet,Card,,2024-09-09,2024-09,9,Monday
+2024-09-09,Transport,405,Ola,UPI,,2024-09-09,2024-09,9,Monday
+2024-09-09,Shopping,3471,Amazon,UPI,,2024-09-09,2024-09,9,Monday
+2024-09-09,Food & Dining,785,Coffee,UPI,,2024-09-09,2024-09,9,Monday
+2024-09-09,Food & Dining,578,Snacks - Purchase,Cash,,2024-09-09,2024-09,9,Monday
+2024-09-10,Education,4664,School Fee,UPI,,2024-09-10,2024-09,10,Tuesday
+2024-09-10,Entertainment,295,Concert,Card,,2024-09-10,2024-09,10,Tuesday
+2024-09-11,Shopping,6441,Accessories,UPI,,2024-09-11,2024-09,11,Wednesday
+2024-09-11,Food & Dining,304,Cafe,Card,,2024-09-11,2024-09,11,Wednesday
+2024-09-11,Transport,75,Ola,Card,,2024-09-11,2024-09,11,Wednesday
+2024-09-11,Transport,42,Uber,Card,,2024-09-11,2024-09,11,Wednesday
+2024-09-12,Transport,499,Bus,Cash,,2024-09-12,2024-09,12,Thursday
+2024-09-13,Entertainment,1144,Netflix,Card,,2024-09-13,2024-09,13,Friday
+2024-09-13,Food & Dining,588,Cafe - Expense,Card,,2024-09-13,2024-09,13,Friday
+2024-09-13,Healthcare,1035,Doctor - Purchase,UPI,Monthly expense,2024-09-13,2024-09,13,Friday
+2024-09-14,Transport,433,Uber,UPI,,2024-09-14,2024-09,14,Saturday
+2024-09-14,Groceries,3235,Supermarket,Cash,,2024-09-14,2024-09,14,Saturday
+2024-09-14,Food & Dining,896,Takeout - Payment,Cash,,2024-09-14,2024-09,14,Saturday
+2024-09-15,Healthcare,182,Gym,Cash,Weekly expense,2024-09-15,2024-09,15,Sunday
+2024-09-15,Food & Dining,1354,Snacks - Purchase,Card,,2024-09-15,2024-09,15,Sunday
+2024-09-15,Shopping,6811,Flipkart - Bill,Card,,2024-09-15,2024-09,15,Sunday
+2024-09-16,Transport,401,Taxi,Cash,,2024-09-16,2024-09,16,Monday
+2024-09-17,Groceries,2529,Fruits,Card,,2024-09-17,2024-09,17,Tuesday
+2024-09-17,Food & Dining,85,Takeout,UPI,,2024-09-17,2024-09,17,Tuesday
+2024-09-17,Food & Dining,612,Dinner,Card,,2024-09-17,2024-09,17,Tuesday
+2024-09-18,Food & Dining,510,Dinner - Payment,Card,,2024-09-18,2024-09,18,Wednesday
+2024-09-18,Food & Dining,467,Restaurant,Net Banking,,2024-09-18,2024-09,18,Wednesday
+2024-09-19,Groceries,1924,Vegetables - Expense,Card,,2024-09-19,2024-09,19,Thursday
+2024-09-19,Entertainment,845,Spotify,UPI,,2024-09-19,2024-09,19,Thursday
+2024-09-19,Transport,110,Fuel - Payment,Card,,2024-09-19,2024-09,19,Thursday
+2024-09-19,Food & Dining,181,Dinner,UPI,,2024-09-19,2024-09,19,Thursday
+2024-09-20,Transport,122,Fuel,Card,,2024-09-20,2024-09,20,Friday
+2024-09-20,Transport,145,Taxi,UPI,,2024-09-20,2024-09,20,Friday
+2024-09-20,Shopping,920,Accessories,Cash,,2024-09-20,2024-09,20,Friday
+2024-09-21,Other,112,Gift,Card,,2024-09-21,2024-09,21,Saturday
+2024-09-21,Transport,549,Fuel,UPI,Urgent purchase,2024-09-21,2024-09,21,Saturday
+2024-09-21,Healthcare,2055,Medicine,Net Banking,,2024-09-21,2024-09,21,Saturday
+2024-09-21,Transport,843,Auto - Purchase,UPI,,2024-09-21,2024-09,21,Saturday
+2024-09-22,Transport,579,Ola,UPI,,2024-09-22,2024-09,22,Sunday
+2024-09-23,Food & Dining,170,Coffee,Cash,,2024-09-23,2024-09,23,Monday
+2024-09-23,Entertainment,1784,Netflix - Bill,Cash,,2024-09-23,2024-09,23,Monday
+2024-09-24,Transport,430,Bus,Cash,,2024-09-24,2024-09,24,Tuesday
+2024-09-24,Bills & Utilities,4407,Electricity - Expense,Card,,2024-09-24,2024-09,24,Tuesday
+2024-09-24,Groceries,2989,Vegetables,Card,,2024-09-24,2024-09,24,Tuesday
+2024-09-26,Food & Dining,457,Snacks - Bill,Net Banking,,2024-09-26,2024-09,26,Thursday
+2024-09-27,Other,579,Gift - Purchase,UPI,,2024-09-27,2024-09,27,Friday
+2024-09-27,Groceries,1541,Vegetables,UPI,Monthly expense,2024-09-27,2024-09,27,Friday
+2024-09-28,Healthcare,1707,Health Checkup,UPI,,2024-09-28,2024-09,28,Saturday
+2024-09-28,Other,336,Donation,Net Banking,,2024-09-28,2024-09,28,Saturday
+2024-09-29,Shopping,8715,Clothes,Card,,2024-09-29,2024-09,29,Sunday
+2024-09-30,Food & Dining,320,Coffee,Card,Planned expense,2024-09-30,2024-09,30,Monday
+2024-09-30,Transport,48,Ola,UPI,Planned expense,2024-09-30,2024-09,30,Monday
+2024-09-30,Groceries,892,Groceries - Expense,UPI,Planned expense,2024-09-30,2024-09,30,Monday
+2024-10-02,Other,187,Misc,Cash,Weekly expense,2024-10-02,2024-10,2,Wednesday
+2024-10-02,Shopping,6533,Accessories,UPI,,2024-10-02,2024-10,2,Wednesday
+2024-10-03,Transport,30,Metro,UPI,,2024-10-03,2024-10,3,Thursday
+2024-10-03,Entertainment,1008,Concert,UPI,,2024-10-03,2024-10,3,Thursday
+2024-10-03,Other,879,Misc,UPI,,2024-10-03,2024-10,3,Thursday
+2024-10-04,Shopping,4163,Amazon - Purchase,Card,,2024-10-04,2024-10,4,Friday
+2024-10-04,Entertainment,147,Spotify - Bill,Net Banking,,2024-10-04,2024-10,4,Friday
+2024-10-05,Bills & Utilities,1701,Mobile Recharge - Payment,Net Banking,,2024-10-05,2024-10,5,Saturday
+2024-10-05,Groceries,4693,Vegetables,Card,Weekly expense,2024-10-05,2024-10,5,Saturday
+2024-10-05,Entertainment,523,Movie,UPI,,2024-10-05,2024-10,5,Saturday
+2024-10-05,Healthcare,1383,Health Checkup,Card,,2024-10-05,2024-10,5,Saturday
+2024-10-07,Shopping,6454,Shoes,UPI,,2024-10-07,2024-10,7,Monday
+2024-10-07,Groceries,1861,Weekly shopping,Cash,,2024-10-07,2024-10,7,Monday
+2024-10-08,Bills & Utilities,2442,Internet,UPI,,2024-10-08,2024-10,8,Tuesday
+2024-10-08,Bills & Utilities,2310,Gas Bill - Payment,Card,Planned expense,2024-10-08,2024-10,8,Tuesday
+2024-10-08,Food & Dining,511,Snacks,Card,,2024-10-08,2024-10,8,Tuesday
+2024-10-10,Transport,235,Taxi - Payment,Cash,,2024-10-10,2024-10,10,Thursday
+2024-10-10,Food & Dining,351,Restaurant,UPI,,2024-10-10,2024-10,10,Thursday
+2024-10-12,Transport,587,Bus,Card,Planned expense,2024-10-12,2024-10,12,Saturday
+2024-10-12,Groceries,980,Groceries,Card,Weekly expense,2024-10-12,2024-10,12,Saturday
+2024-10-13,Healthcare,1109,Health Checkup - Purchase,Cash,,2024-10-13,2024-10,13,Sunday
+2024-10-13,Transport,626,Uber,Card,,2024-10-13,2024-10,13,Sunday
+2024-10-14,Shopping,8089,Amazon,Cash,,2024-10-14,2024-10,14,Monday
+2024-10-15,Groceries,1665,Groceries,Cash,Weekly expense,2024-10-15,2024-10,15,Tuesday
+2024-10-16,Food & Dining,76,Dinner,Cash,,2024-10-16,2024-10,16,Wednesday
+2024-10-16,Entertainment,1558,Netflix,Card,,2024-10-16,2024-10,16,Wednesday
+2024-10-17,Transport,247,Uber,Cash,,2024-10-17,2024-10,17,Thursday
+2024-10-17,Food & Dining,751,Snacks,Card,,2024-10-17,2024-10,17,Thursday
+2024-10-18,Food & Dining,486,Lunch,Cash,,2024-10-18,2024-10,18,Friday
+2024-10-18,Bills & Utilities,1297,Water,Card,,2024-10-18,2024-10,18,Friday
+2024-10-18,Entertainment,510,Movie - Bill,Card,,2024-10-18,2024-10,18,Friday
+2024-10-18,Food & Dining,254,Takeout,Card,,2024-10-18,2024-10,18,Friday
+2024-10-18,Transport,154,Taxi,UPI,,2024-10-18,2024-10,18,Friday
+2024-10-20,Food & Dining,162,Cafe - Expense,Card,Monthly expense,2024-10-20,2024-10,20,Sunday
+2024-10-20,Bills & Utilities,6593,Internet - Bill,Net Banking,Planned expense,2024-10-20,2024-10,20,Sunday
+2024-10-21,Shopping,978,Accessories,UPI,Planned expense,2024-10-21,2024-10,21,Monday
+2024-10-22,Transport,491,Bus,UPI,Weekly expense,2024-10-22,2024-10,22,Tuesday
+2024-10-22,Groceries,1596,Groceries,UPI,,2024-10-22,2024-10,22,Tuesday
+2024-10-23,Transport,423,Auto,Card,,2024-10-23,2024-10,23,Wednesday
+2024-10-23,Entertainment,362,Movie,Card,,2024-10-23,2024-10,23,Wednesday
+2024-10-24,Transport,397,Auto - Purchase,Cash,,2024-10-24,2024-10,24,Thursday
+2024-10-25,Food & Dining,66,Snacks,UPI,Planned expense,2024-10-25,2024-10,25,Friday
+2024-10-25,Transport,190,Uber,UPI,,2024-10-25,2024-10,25,Friday
+2024-10-26,Bills & Utilities,4622,Gas Bill - Bill,Cash,,2024-10-26,2024-10,26,Saturday
+2024-10-26,Food & Dining,598,Dinner - Purchase,UPI,Weekly expense,2024-10-26,2024-10,26,Saturday
+2024-10-27,Groceries,3420,Weekly shopping,Card,,2024-10-27,2024-10,27,Sunday
+2024-10-27,Food & Dining,545,Cafe,Cash,Urgent purchase,2024-10-27,2024-10,27,Sunday
+2024-10-28,Bills & Utilities,1821,Gas Bill,UPI,,2024-10-28,2024-10,28,Monday
+2024-10-28,Entertainment,1000,Movie,Card,Planned expense,2024-10-28,2024-10,28,Monday
+2024-10-30,Groceries,1326,Weekly shopping - Bill,Card,,2024-10-30,2024-10,30,Wednesday
+2024-10-30,Healthcare,1697,Pharmacy - Payment,UPI,,2024-10-30,2024-10,30,Wednesday
+2024-10-31,Bills & Utilities,2455,Mobile Recharge - Expense,Card,,2024-10-31,2024-10,31,Thursday
+2024-10-31,Transport,198,Ola - Bill,Card,,2024-10-31,2024-10,31,Thursday
+2024-11-01,Food & Dining,730,Restaurant,UPI,,2024-11-01,2024-11,1,Friday
+2024-11-01,Food & Dining,418,Takeout,Card,,2024-11-01,2024-11,1,Friday
+2024-11-01,Transport,264,Ola,UPI,,2024-11-01,2024-11,1,Friday
+2024-11-01,Transport,411,Fuel - Bill,Cash,,2024-11-01,2024-11,1,Friday
+2024-11-01,Shopping,2630,Amazon,Cash,,2024-11-01,2024-11,1,Friday
+2024-11-02,Food & Dining,690,Cafe,UPI,,2024-11-02,2024-11,2,Saturday
+2024-11-03,Entertainment,402,Movie,Card,Weekly expense,2024-11-03,2024-11,3,Sunday
+2024-11-03,Bills & Utilities,6454,Water - Expense,UPI,,2024-11-03,2024-11,3,Sunday
+2024-11-03,Food & Dining,149,Snacks,Card,,2024-11-03,2024-11,3,Sunday
+2024-11-04,Food & Dining,331,Takeout,Cash,,2024-11-04,2024-11,4,Monday
+2024-11-04,Bills & Utilities,1584,Water,UPI,,2024-11-04,2024-11,4,Monday
+2024-11-05,Transport,69,Taxi,Card,Urgent purchase,2024-11-05,2024-11,5,Tuesday
+2024-11-05,Groceries,2399,Vegetables,Card,,2024-11-05,2024-11,5,Tuesday
+2024-11-05,Food & Dining,615,Takeout - Purchase,UPI,Weekly expense,2024-11-05,2024-11,5,Tuesday
+2024-11-06,Food & Dining,160,Coffee,UPI,,2024-11-06,2024-11,6,Wednesday
+2024-11-06,Shopping,9802,Shoes,UPI,,2024-11-06,2024-11,6,Wednesday
+2024-11-07,Groceries,2263,Fruits,Card,,2024-11-07,2024-11,7,Thursday
+2024-11-08,Transport,264,Metro,Card,,2024-11-08,2024-11,8,Friday
+2024-11-08,Groceries,1289,Supermarket,Cash,Planned expense,2024-11-08,2024-11,8,Friday
+2024-11-09,Food & Dining,719,Cafe,UPI,,2024-11-09,2024-11,9,Saturday
+2024-11-09,Groceries,458,Fruits,Card,,2024-11-09,2024-11,9,Saturday
+2024-11-09,Shopping,11343,Shoes,Card,,2024-11-09,2024-11,9,Saturday
+2024-11-09,Groceries,498,Weekly shopping,UPI,,2024-11-09,2024-11,9,Saturday
+2024-11-10,Groceries,2017,Supermarket,UPI,,2024-11-10,2024-11,10,Sunday
+2024-11-10,Groceries,2154,Groceries,Card,Planned expense,2024-11-10,2024-11,10,Sunday
+2024-11-10,Shopping,6043,Flipkart - Payment,Card,,2024-11-10,2024-11,10,Sunday
+2024-11-11,Transport,233,Fuel,Card,,2024-11-11,2024-11,11,Monday
+2024-11-13,Food & Dining,133,Coffee,Card,,2024-11-13,2024-11,13,Wednesday
+2024-11-13,Healthcare,1809,Health Checkup - Expense,Card,,2024-11-13,2024-11,13,Wednesday
+2024-11-13,Entertainment,1900,OTT Subscription,Cash,,2024-11-13,2024-11,13,Wednesday
+2024-11-14,Bills & Utilities,4370,Mobile Recharge,UPI,,2024-11-14,2024-11,14,Thursday
+2024-11-15,Food & Dining,686,Restaurant - Bill,Card,,2024-11-15,2024-11,15,Friday
+2024-11-15,Food & Dining,67,Cafe - Purchase,Card,,2024-11-15,2024-11,15,Friday
+2024-11-16,Transport,736,Uber - Bill,UPI,,2024-11-16,2024-11,16,Saturday
+2024-11-16,Healthcare,2785,Doctor,Card,,2024-11-16,2024-11,16,Saturday
+2024-11-16,Shopping,982,Amazon,Card,Planned expense,2024-11-16,2024-11,16,Saturday
+2024-11-16,Groceries,3513,Vegetables - Bill,UPI,,2024-11-16,2024-11,16,Saturday
+2024-11-17,Shopping,3529,Shoes,UPI,,2024-11-17,2024-11,17,Sunday
+2024-11-18,Healthcare,198,Pharmacy,UPI,Planned expense,2024-11-18,2024-11,18,Monday
+2024-11-18,Bills & Utilities,1693,Internet - Expense,UPI,Weekly expense,2024-11-18,2024-11,18,Monday
+2024-11-18,Transport,380,Auto,UPI,,2024-11-18,2024-11,18,Monday
+2024-11-19,Groceries,805,Supermarket,UPI,Planned expense,2024-11-19,2024-11,19,Tuesday
+2024-11-19,Food & Dining,459,Dinner,UPI,,2024-11-19,2024-11,19,Tuesday
+2024-11-19,Bills & Utilities,953,Internet - Bill,UPI,Planned expense,2024-11-19,2024-11,19,Tuesday
+2024-11-20,Transport,137,Auto,UPI,,2024-11-20,2024-11,20,Wednesday
+2024-11-20,Food & Dining,84,Takeout - Payment,Cash,,2024-11-20,2024-11,20,Wednesday
+2024-11-21,Food & Dining,134,Lunch,Card,Monthly expense,2024-11-21,2024-11,21,Thursday
+2024-11-21,Shopping,4333,Flipkart,Card,Planned expense,2024-11-21,2024-11,21,Thursday
+2024-11-22,Transport,159,Taxi,UPI,,2024-11-22,2024-11,22,Friday
+2024-11-22,Food & Dining,505,Lunch,Cash,Weekly expense,2024-11-22,2024-11,22,Friday
+2024-11-22,Transport,112,Auto,UPI,,2024-11-22,2024-11,22,Friday
+2024-11-24,Shopping,2457,Accessories,Card,,2024-11-24,2024-11,24,Sunday
+2024-11-25,Shopping,3852,Flipkart,Cash,,2024-11-25,2024-11,25,Monday
+2024-11-25,Groceries,1378,Fruits - Expense,Card,,2024-11-25,2024-11,25,Monday
+2024-11-25,Food & Dining,52,Snacks,Cash,,2024-11-25,2024-11,25,Monday
+2024-11-25,Shopping,2898,Clothes,Cash,,2024-11-25,2024-11,25,Monday
+2024-11-25,Transport,116,Ola,Cash,,2024-11-25,2024-11,25,Monday
+2024-11-26,Food & Dining,87,Dinner,Card,,2024-11-26,2024-11,26,Tuesday
+2024-11-26,Entertainment,1828,Game - Bill,Net Banking,,2024-11-26,2024-11,26,Tuesday
+2024-11-26,Shopping,6856,Flipkart,UPI,,2024-11-26,2024-11,26,Tuesday
+2024-11-27,Shopping,3032,Accessories,Cash,,2024-11-27,2024-11,27,Wednesday
+2024-11-27,Shopping,5361,Flipkart,UPI,,2024-11-27,2024-11,27,Wednesday
+2024-11-27,Other,958,Gift,UPI,Planned expense,2024-11-27,2024-11,27,Wednesday
+2024-11-28,Bills & Utilities,1425,Electricity - Expense,Card,Weekly expense,2024-11-28,2024-11,28,Thursday
+2024-11-28,Entertainment,131,Game,Cash,,2024-11-28,2024-11,28,Thursday
+2024-11-28,Shopping,2757,Amazon,Card,,2024-11-28,2024-11,28,Thursday
+2024-11-28,Transport,294,Auto - Expense,Cash,,2024-11-28,2024-11,28,Thursday
+2024-11-29,Food & Dining,159,Restaurant,UPI,,2024-11-29,2024-11,29,Friday
+2024-11-29,Food & Dining,320,Takeout - Bill,UPI,,2024-11-29,2024-11,29,Friday
+2024-11-29,Food & Dining,446,Restaurant,Cash,,2024-11-29,2024-11,29,Friday
+2024-11-29,Food & Dining,217,Cafe,UPI,,2024-11-29,2024-11,29,Friday
+2024-11-30,Food & Dining,1062,Cafe,UPI,,2024-11-30,2024-11,30,Saturday
+2024-11-30,Food & Dining,855,Takeout - Bill,Card,,2024-11-30,2024-11,30,Saturday
+2024-12-01,Entertainment,1594,OTT Subscription - Bill,UPI,,2024-12-01,2024-12,1,Sunday
+2024-12-01,Food & Dining,794,Cafe,UPI,Planned expense,2024-12-01,2024-12,1,Sunday
+2024-12-02,Groceries,339,Groceries,UPI,,2024-12-02,2024-12,2,Monday
+2024-12-02,Transport,362,Ola - Purchase,Cash,,2024-12-02,2024-12,2,Monday
+2024-12-02,Food & Dining,236,Restaurant,Card,,2024-12-02,2024-12,2,Monday
+2024-12-04,Groceries,1727,Vegetables,Card,,2024-12-04,2024-12,4,Wednesday
+2024-12-05,Other,917,Donation - Expense,UPI,,2024-12-05,2024-12,5,Thursday
+2024-12-06,Healthcare,1179,Health Checkup - Bill,Card,Urgent purchase,2024-12-06,2024-12,6,Friday
+2024-12-06,Transport,73,Taxi,Cash,,2024-12-06,2024-12,6,Friday
+2024-12-07,Groceries,1935,Groceries,Card,Urgent purchase,2024-12-07,2024-12,7,Saturday
+2024-12-07,Other,1280,Gift - Purchase,UPI,Planned expense,2024-12-07,2024-12,7,Saturday
+2024-12-09,Food & Dining,238,Cafe - Payment,Card,Monthly expense,2024-12-09,2024-12,9,Monday
+2024-12-09,Healthcare,1147,Health Checkup,Cash,,2024-12-09,2024-12,9,Monday
+2024-12-10,Food & Dining,399,Coffee,Card,Weekly expense,2024-12-10,2024-12,10,Tuesday
+2024-12-10,Food & Dining,121,Takeout,UPI,,2024-12-10,2024-12,10,Tuesday
+2024-12-10,Food & Dining,150,Takeout - Purchase,Card,,2024-12-10,2024-12,10,Tuesday
+2024-12-10,Food & Dining,411,Coffee - Bill,Card,,2024-12-10,2024-12,10,Tuesday
+2024-12-11,Food & Dining,778,Takeout,Card,,2024-12-11,2024-12,11,Wednesday
+2024-12-11,Shopping,3203,Accessories,UPI,Planned expense,2024-12-11,2024-12,11,Wednesday
+2024-12-12,Food & Dining,156,Takeout,UPI,,2024-12-12,2024-12,12,Thursday
+2024-12-12,Shopping,6077,Clothes,Card,,2024-12-12,2024-12,12,Thursday
+2024-12-12,Entertainment,1113,Movie,Net Banking,,2024-12-12,2024-12,12,Thursday
+2024-12-12,Food & Dining,629,Takeout - Bill,UPI,Planned expense,2024-12-12,2024-12,12,Thursday
+2024-12-12,Transport,154,Taxi,Card,,2024-12-12,2024-12,12,Thursday
+2024-12-13,Other,442,Misc,Cash,,2024-12-13,2024-12,13,Friday
+2024-12-13,Entertainment,250,Concert,Card,,2024-12-13,2024-12,13,Friday
+2024-12-15,Other,1108,Repair - Expense,Card,,2024-12-15,2024-12,15,Sunday
+2024-12-15,Shopping,780,Electronics - Expense,Card,,2024-12-15,2024-12,15,Sunday
+2024-12-16,Transport,62,Metro,UPI,Planned expense,2024-12-16,2024-12,16,Monday
+2024-12-17,Bills & Utilities,4360,Mobile Recharge,Card,,2024-12-17,2024-12,17,Tuesday
+2024-12-17,Other,268,Misc,Card,Weekly expense,2024-12-17,2024-12,17,Tuesday
+2024-12-18,Groceries,1224,Weekly shopping,Card,,2024-12-18,2024-12,18,Wednesday
+2024-12-18,Transport,222,Uber,UPI,,2024-12-18,2024-12,18,Wednesday
+2024-12-19,Food & Dining,134,Coffee,Card,,2024-12-19,2024-12,19,Thursday
+2024-12-19,Entertainment,851,Game,UPI,,2024-12-19,2024-12,19,Thursday
+2024-12-19,Other,490,Gift - Purchase,UPI,,2024-12-19,2024-12,19,Thursday
+2024-12-19,Healthcare,384,Medicine,Cash,,2024-12-19,2024-12,19,Thursday
+2024-12-20,Food & Dining,185,Takeout - Expense,UPI,,2024-12-20,2024-12,20,Friday
+2024-12-22,Entertainment,2900,Netflix,Card,,2024-12-22,2024-12,22,Sunday
+2024-12-22,Transport,443,Taxi,UPI,,2024-12-22,2024-12,22,Sunday
+2024-12-23,Transport,409,Auto,Cash,,2024-12-23,2024-12,23,Monday
+2024-12-23,Food & Dining,566,Snacks,Card,Urgent purchase,2024-12-23,2024-12,23,Monday
+2024-12-23,Food & Dining,429,Cafe,UPI,,2024-12-23,2024-12,23,Monday
+2024-12-24,Entertainment,1542,Movie,UPI,,2024-12-24,2024-12,24,Tuesday
+2024-12-24,Education,1867,School Fee,UPI,Monthly expense,2024-12-24,2024-12,24,Tuesday
+2024-12-25,Transport,249,Auto,UPI,,2024-12-25,2024-12,25,Wednesday
+2024-12-25,Entertainment,1217,Netflix,Card,,2024-12-25,2024-12,25,Wednesday
+2024-12-26,Food & Dining,164,Dinner,Card,,2024-12-26,2024-12,26,Thursday
+2024-12-26,Healthcare,721,Health Checkup,Cash,,2024-12-26,2024-12,26,Thursday
+2024-12-27,Transport,223,Metro,Card,,2024-12-27,2024-12,27,Friday
+2024-12-28,Education,4628,Course,Card,Urgent purchase,2024-12-28,2024-12,28,Saturday
+2024-12-28,Transport,471,Ola,Card,,2024-12-28,2024-12,28,Saturday
+2024-12-29,Food & Dining,209,Takeout,Cash,Monthly expense,2024-12-29,2024-12,29,Sunday
+2024-12-30,Other,574,Misc - Purchase,Cash,,2024-12-30,2024-12,30,Monday
+2024-12-30,Healthcare,1698,Health Checkup,Cash,,2024-12-30,2024-12,30,Monday
+2024-12-30,Entertainment,808,Movie,UPI,,2024-12-30,2024-12,30,Monday
+2024-12-31,Bills & Utilities,2090,Internet,UPI,,2024-12-31,2024-12,31,Tuesday
+2024-12-31,Shopping,9898,Electronics,UPI,,2024-12-31,2024-12,31,Tuesday
+2024-01-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-01,5,Friday
+2024-02-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-02,5,Monday
+2024-03-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-03,5,Tuesday
+2024-04-05,Income,41451,Monthly Salary,Bank Transfer,Income,,2024-04,5,Friday
+2024-05-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-05,5,Sunday
+2024-06-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-06,5,Wednesday
+2024-07-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-07,5,Friday
+2024-08-05,Income,50798,Monthly Salary,Bank Transfer,Income,,2024-08,5,Monday
+2024-09-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-09,5,Thursday
+2024-10-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-10,5,Saturday
+2024-11-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-11,5,Tuesday
+2024-12-05,Income,45000,Monthly Salary,Bank Transfer,Income,,2024-12,5,Thursday
